@@ -1,4 +1,5 @@
 # mycode
+wanting to learn how to version control projects with git
 a place to store python code the week of 2021-09-27
 
 # mycode (Project Title)
